@@ -16,7 +16,7 @@ function Home() {
                 </button>
             </div>
             <div className="right">
-                <img src="kris.jpg" alt="Hanna Mae" width='400px'/>
+                <img src="kris.jpg" alt="Kristine" width='400px'/>
             </div>            
         </div>
     </section>
