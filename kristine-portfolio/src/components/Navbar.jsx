@@ -5,7 +5,7 @@ function Navbar() {
     <section className='nav'>
         <div className="center-body">
             <div className="logo">
-                <h1>Kristine.dev</h1>
+                <h1>Kristine</h1>
             </div>
             <div className="menu">
                 <ul>
